@@ -1,5 +1,5 @@
 FROM influxdb:1.4.3
-LABEL maintainer="Julian Nonino <noninojulian@outlook.com>"
+LABEL maintainer="Julian Nonino <noninojulian@gmail.com>"
 
 # Install InfluxDB
 #RUN curl -sL https://repos.influxdata.com/influxdb.key | sudo apt-key add - && \
