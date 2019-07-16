@@ -1,4 +1,4 @@
-FROM influxdb:1.4.3
+FROM influxdb
 LABEL maintainer="Julian Nonino <noninojulian@gmail.com>"
 
 # Install InfluxDB
